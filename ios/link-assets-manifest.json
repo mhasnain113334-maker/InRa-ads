@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/ChangaOne-Italic.ttf",
+      "sha1": "3c2b6671068b718b4c01505457573afb1c0ab4b8"
+    },
+    {
+      "path": "assets/fonts/ChangaOne-Regular.ttf",
+      "sha1": "dfff9e183884ea3ee599e9f493ad832299931e02"
+    }
+  ]
+}
